@@ -1,8 +1,9 @@
-import { useNavigate } from "react-router-dom";
+import { useNavigate, useParams } from "react-router-dom";
 
 // Edit.js
 const Edit = () => {
   const navigate = useNavigate();
+  const { id } = useParams();
   return (
     <div>
       <h1>Edit</h1>
