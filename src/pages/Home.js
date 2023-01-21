@@ -52,10 +52,7 @@ const Home = () => {
         rightChild={<MyButton text={">"} onClick={() => increaseMonth()} />}
       />
 
-      {/* 필터 */}
-      <div className="diary-filter"></div>
-
-      {/* 일기리스트 */}
+      {/* DiaryList */}
       <DiaryList diaryList={data} />
     </div>
   );
