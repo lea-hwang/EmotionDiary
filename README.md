@@ -3,7 +3,7 @@ https://lea-react-project.web.app/
 
 ## 페이지 구성
 ### Home
-이전에 작성된 일기들을 확인할 수 있는 페이지입다.
+이전에 작성된 일기들을 확인할 수 있는 페이지입니다.
 ![image](https://user-images.githubusercontent.com/37495515/215026355-b8b27abd-ccc2-48f9-b62b-0bd2b6095092.png)
 
 ### Detail
